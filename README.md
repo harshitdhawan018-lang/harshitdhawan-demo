@@ -1,4 +1,4 @@
 # harshitdhawan-demo
 This is my first Git Repository.
 <br>
-Author - Harshit Dhawan
+Author - Harshit Dhawan (student)
